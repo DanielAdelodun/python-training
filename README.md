@@ -2,9 +2,10 @@
 
 # Python Training
 Python training for business analysts and traders.
+(Note: The binder badge link below will take you to my (Daniel's) version of the repo. It is basically identical to the original, with some minor bug fixes.)
 
 ![GitHub](https://img.shields.io/github/license/jpmorganchase/python-training)
-[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/jpmorganchase/python-training/master?urlpath=lab)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielAdelodun/python-training/master?urlpath=lab)
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey)](mailto:open_source@jpmorgan.com)
 
 ## Overview
